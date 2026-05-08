@@ -1,1 +1,22 @@
+"""
+Central configuration file for Global Inequality Platform
+"""
 
+
+# App configuration
+APP_NAME = "Global Inequality Platform"
+APP_ICON = "🌍"
+APP_VERSION = "1.0.0"
+
+# Contact information
+CONTACT_EMAIL = "pavithrasuriyaprakasam57@gmail.com"
+CONTACT_PHONE = "1234567891"
+CONTACT_ADDRESS = "123 Data Street, Analytics City, ST 12345"
+
+SOCIAL_GITHUB = "https://github.com/pavithra-576"
+
+# Platform statistics
+STATS_COUNTRIES = "190+"
+STATS_YEARS = "10+"
+STATS_RECORDS = "2K+"
+DATA_SOURCE = "World Income Inequality Database"
