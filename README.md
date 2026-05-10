@@ -147,6 +147,9 @@ Global-Income-Inequality-Platform/
 
 ---
 
+
+**Incase possibities work on and keep with next level**
+
 # 🔮 Future Enhancements
 
 - Machine learning-based forecasting
